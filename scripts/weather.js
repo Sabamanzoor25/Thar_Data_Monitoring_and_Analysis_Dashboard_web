@@ -1,0 +1,1 @@
+window.myWidgetParam ? window.myWidgetParam : window.myWidgetParam = []; window.myWidgetParam.push({ id: 15, cityid: '1170219', appid: '9fcb3f002a5b7302ee47017a37e0a031', units: 'metric', containerid: 'openweathermap-widget-15', });
