@@ -14,4 +14,4 @@ Created a responsive website using CSS, HTML, and JavaScript for monitoring and 
 
 - **Frontend**: HTML, CSS, JavaScript.
 - **Data Visualization**: Libraries like Chart.js or D3.js for creating interactive charts.
-- **Backend**: (If applicable, mention the backend technologies used, such as Node.js, Python Flask, etc.)
+
